@@ -10,12 +10,12 @@ This project demonstrates how I implement **authentication**, **authorization**,
 
 ## 📁 Contents
 
-1. [🛂 LDAP & Kerberos Authentication](#ldap--kerberos-authentication)
-2. [🔥 Host-Based Firewall (firewalld)](#host-based-firewall-firewalld)
-3. [🛡️ Web Application Firewall (ModSecurity + OWASP CRS)](#web-application-firewall-modsecurity--owasp-crs)
-4. [🚨 Intrusion Detection System (Snort)](#intrusion-detection-system-snort)
-5. [🎯 Why This Matters](#why-this-matters)
-6. [🚀 Let’s Work Together](#lets-work-together)
+1. 🛂 LDAP & Kerberos Authentication
+2. 🔥 Host-Based Firewall (firewalld)
+3. 🛡️ Web Application Firewall (ModSecurity + OWASP CRS)
+4. 🚨 Intrusion Detection System (Snort)
+5. 🎯 Why This Matters
+6. 🚀 Let’s Work Together
 
 ---
 
